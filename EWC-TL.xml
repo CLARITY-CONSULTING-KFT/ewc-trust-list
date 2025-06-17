@@ -784,12 +784,17 @@
                     <ServiceInformation>
                         <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/EAA</ServiceTypeIdentifier>
                         <ServiceName>
-                            <Name xml:lang="en">Buda Castle Ticket DEV Issuer</Name>
+                            <Name xml:lang="en">Buda Castle Ticket Issuer</Name>
                         </ServiceName>
+                        <ServiceDigitalIdentity>
+                            <DigitalId>
+                                <X509SKI>353B9AF460F241739090044B776FEC52611762B8</X509SKI>
+                            </DigitalId>
+                        </ServiceDigitalIdentity>
                         <ServiceStatus>https://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted/</ServiceStatus>
                         <StatusStartingTime>2025-05-01T00:00:00Z</StatusStartingTime>
                         <ServiceSupplyPoints>
-                            <ServiceSupplyPoint>https://www.rde-ewc.hu/api_dev</ServiceSupplyPoint>
+                            <ServiceSupplyPoint>https://www.rde-ewc.hu/api</ServiceSupplyPoint>
                         </ServiceSupplyPoints>
                     </ServiceInformation>
                 </TSPService>
