@@ -776,7 +776,7 @@
                     </ElectronicAddress>
                 </TSPAddress>
                 <TSPInformationURI>
-                    <URI xml:lang="en">https://rde-ewc.hu/budacastleexperience</URI>
+                    <URI xml:lang="en">https://rde-ewc.hu/budacastleexperience_dev</URI>
                 </TSPInformationURI>
             </TSPInformation>
             <TSPServices>
